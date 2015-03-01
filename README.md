@@ -1,4 +1,5 @@
 # helllo-world
-getting know to github
+
+Trying to learn GITHUB Branching and PULL REQUESTS
 
 
